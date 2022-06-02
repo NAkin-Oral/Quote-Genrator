@@ -88,7 +88,19 @@ const quotes = [
         author:"~Forrest Gump"
     },
     {
-        quote:"he future belongs to those who prepare for it today.",
+        quote:"What you love, let it kill you.",
+        author: "~David Moses"
+    },
+    {
+        quote:"Hayata nasıl bakıyorsan, orasındasın.",
+        author: "~Rüştü Keten"
+    },
+    {
+        quote:"You can go whenever you want, whereever you want, as long as you want.",
+        author: "~Nurettin Akın"
+    },
+    {
+        quote:"The future belongs to those who prepare for it today.",
         author:"~Malcolm X"
     }
 ];
